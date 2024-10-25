@@ -79,8 +79,6 @@
   </a>
 </p>
 ---
-
-### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darpanchelani&show_icons=true&locale=en&layout=compact" alt="darpanchelani" />
   <br/>
@@ -88,7 +86,6 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=darpanchelani" alt="darpanchelani" />
 </p>
----
 ### 🏆 GitHub Achievements:
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -96,7 +93,6 @@
   </a>
 </p>
 ---
-### 🌟 Profile Views:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=darpanchelani&label=Profile%20views&color=0e75b6&style=flat" alt="darpanchelani" />
 </p>
