@@ -16,6 +16,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=darpanchelani&label=Profile%20views&color=0e75b6&style=flat" alt="darpanchelani" />
+</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -146,6 +149,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darpanchelani&label=Profile%20views&color=0e75b6&style=flat" alt="darpanchelani" />
-</p>
+
