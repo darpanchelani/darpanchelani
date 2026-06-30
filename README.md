@@ -4,9 +4,9 @@
 
 ### Software Engineer | Full Stack Developer | Mobile App Developer | Data Analyst
 
-I build scalable web apps, mobile applications, reliable APIs, and data-driven digital solutions.
+I build scalable web apps, mobile applications, reliable APIs and data-driven digital solutions.
 
-[Portfolio](https://softotic.com) · [LinkedIn](https://linkedin.com/in/darpanchelani12) · [Email](mailto:darpanchelani12@gmail.com)
+[Website](https://softotic.com) · [LinkedIn](https://linkedin.com/in/darpanchelani12) · [Email](mailto:darpanchelani12@gmail.com)
 
 </div>
 
@@ -14,16 +14,16 @@ I build scalable web apps, mobile applications, reliable APIs, and data-driven d
 
 ## About Me
 
-I’m a Software Engineer with experience in full-stack development, mobile app development, data analysis, and system design. I focus on building practical, maintainable, and user-focused software solutions.
+I’m a Software Engineer with experience in full-stack development, mobile app development, data analysis and system design. I focus on building practical, maintainable and user focused software solutions.
 
-- Web application development with MERN Stack, Next.js, and GraphQL
+- Web application development with MERN Stack, Next.js and GraphQL
 - Mobile app development with Flutter and Dart
-- Backend development with REST APIs, authentication, file handling, and microservice architecture
-- Database experience with MongoDB, MySQL, PostgreSQL, Firebase, and DB2
-- Familiar with Docker, Jenkins, deployment workflows, and CI/CD pipelines
-- Strong understanding of SQA, software lifecycle, and project management
+- Backend development with REST APIs, authentication, file handling and microservice architecture
+- Database experience with MongoDB, MySQL, PostgreSQL, Firebase and DB2
+- Familiar with Docker, Jenkins, deployment workflows and CI/CD pipelines
+- Strong understanding of SQA, software lifecycle and project management
 - Google-certified Data Analyst with experience in visualization and insights
-- Currently exploring AI-powered applications and machine learning integration
+- Currently exploring AI powered applications and machine learning integration
 
 ---
 
