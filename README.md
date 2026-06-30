@@ -4,7 +4,7 @@
 
 ### Software Engineer | Full Stack Developer | Mobile App Developer | Data Analyst
 
-I build scalable web apps, mobile applications, reliable APIs and data-driven digital solutions.
+I build scalable web apps, mobile applications, reliable APIs and data driven digital solutions.
 
 [Website](https://softotic.com) · [LinkedIn](https://linkedin.com/in/darpanchelani12) · [Email](mailto:darpanchelani12@gmail.com)
 
@@ -69,6 +69,6 @@ I’m a Software Engineer with experience in full-stack development, mobile app 
 
 <div align="center">
 
-**Build with logic. Lead with purpose. Keep learning.**
+**Building software that is practical, scalable and built to last.**
 
 </div>
